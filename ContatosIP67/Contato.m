@@ -31,6 +31,7 @@
     if (self) {
         self.nome = name;
         self.email = email;
+        // comments to test something
     }
     return self;
 }
